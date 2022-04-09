@@ -1,0 +1,12 @@
+@import url(__media/card-blog__media.css);
+@import url(__content/card-blog__content.css);
+@import url(__occasion-name/card-blog__occasion-name.css);
+@import url(__link/card-blog__link.css);
+
+.card-blog {
+  width: 270px;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}

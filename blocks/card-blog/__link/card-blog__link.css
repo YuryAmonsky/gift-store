@@ -1,0 +1,17 @@
+.card-blog__link {
+  width: 67px;
+  padding: 0;
+  margin: 0 0 26px 24px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  text-decoration: none;
+  color: #000;
+  transition: .5s;
+}
+
+.card-blog__link:hover {
+  text-shadow: 5px -5px #00000088;
+}

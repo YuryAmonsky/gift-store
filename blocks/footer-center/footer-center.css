@@ -1,0 +1,8 @@
+@import url(__copyright/footer-center__copyright.css);
+@import url(__privacy/footer-center__privacy.css);
+
+.footer-center {
+  padding: 0 0 35px 0;
+  margin: 0;
+  background: #fafafa;
+}

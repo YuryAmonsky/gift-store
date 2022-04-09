@@ -1,0 +1,16 @@
+@import url(__content/hero__content.css);
+@import url(__title/hero__title.css);
+@import url(__subtitle/hero__subtitle.css);
+@import url(__button/hero__button.css);
+@import url(__side-image-right/hero__side-image-right.css);
+
+.hero {
+  height: 700px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: flex-start;
+  background: #f1f1f2;
+  z-index: 1;
+}

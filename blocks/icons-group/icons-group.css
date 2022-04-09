@@ -1,0 +1,13 @@
+@import url(__link/icons-group__link.css);
+
+.icons-group {
+  width: 296px;
+  height: 40px;
+  margin: 55px auto 73px;  
+  list-style: none;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+}

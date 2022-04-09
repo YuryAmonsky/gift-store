@@ -1,0 +1,9 @@
+.cta__title {
+  width: 325px;
+  padding: 0;
+  margin: 0;
+  font-family: 'Gilroy';
+  font-size: 32px;
+  /*font-weight: 500;*/
+  line-height: 140.62%;
+}

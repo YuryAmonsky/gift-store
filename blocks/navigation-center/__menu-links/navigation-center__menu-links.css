@@ -1,0 +1,9 @@
+.navigation-center__menu-links {
+  width: 331px;
+  height: 21.27px;
+  padding: 0;
+  margin: 0  0 2px 63px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

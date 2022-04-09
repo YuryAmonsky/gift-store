@@ -1,0 +1,14 @@
+.hero__title {
+  width: 433px;
+  margin: -10px 0;
+  padding: 0;
+  display: flex;
+  align-items: flex-start;
+  font-family: 'Gilroy', serif;
+  font-size: 56px;
+  font-weight: 600;
+  line-height: 69px;
+  text-align: left;
+  /*letter-spacing: 1px;*/
+  color: #000;
+}

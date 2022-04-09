@@ -1,0 +1,8 @@
+@import url(__title/posts-tall__title.css);
+@import url(__subtitle/posts-tall__subtitle.css);
+@import url(__cards-container/posts-tall__cards-container.css);
+
+.posts-tall {
+  width: 100%;
+  background: #fff;
+}

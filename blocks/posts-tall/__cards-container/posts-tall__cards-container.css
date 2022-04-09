@@ -1,0 +1,8 @@
+.posts-tall__cards-container {
+  width: 1170px;
+  padding: 0;
+  margin: 69px auto 137px;
+  display: flex;  
+  justify-content: space-between;
+  list-style: none;  
+}

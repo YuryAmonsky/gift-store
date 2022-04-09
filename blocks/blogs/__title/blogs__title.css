@@ -1,0 +1,9 @@
+.blogs__title {
+  padding: 0;
+  margin: 0 auto;
+  font-family: 'Gilroy';
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38px;
+  text-align: center;
+}

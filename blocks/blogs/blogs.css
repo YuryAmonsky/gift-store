@@ -1,0 +1,11 @@
+@import url(__title-group/blogs__title-group.css);
+@import url(__title/blogs__title.css);
+@import url(__subtitle/blogs__subtitle.css);
+@import url(__cards-box/blogs__cards-box.css);
+
+.blogs {
+  width: 100%;
+  padding: 88px 0 80px 0;
+  box-sizing: border-box;
+  margin: 0;
+}

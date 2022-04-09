@@ -1,0 +1,8 @@
+.blogs-card__summary{
+  padding: 0;
+  margin: 0;
+  font-family: 'Gilroy';
+  font-size: 18px;
+  line-height: 140.62%;
+  /* or 25px */
+}

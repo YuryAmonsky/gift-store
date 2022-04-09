@@ -1,0 +1,16 @@
+.footer-navigation__link {
+  padding: 0;
+  margin: 0;
+  font-family: 'Gilroy';
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 140.62%;
+  /* identical to box height, or 20px */
+  text-decoration: none;
+  color: #000;
+  transition: .5s;
+}
+
+.footer-navigation__link:hover {
+  text-shadow: 5px -5px #00000088;
+}

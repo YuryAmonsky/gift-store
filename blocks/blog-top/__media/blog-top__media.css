@@ -1,0 +1,5 @@
+.blog-top__media {
+  width: 400px;
+  height: 370px;
+  object-fit: cover;
+}

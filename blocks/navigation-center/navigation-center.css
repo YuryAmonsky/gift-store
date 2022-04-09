@@ -1,0 +1,14 @@
+@import url(__menu-links/navigation-center__menu-links.css);
+@import url(__menu-link/navigation-center__menu-link.css);
+@import url(__button/navigation-center__button.css);
+
+.navigation-center {
+  width: 100%;
+  height: 61.87px;
+  padding: 0 34px 0 80px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+}

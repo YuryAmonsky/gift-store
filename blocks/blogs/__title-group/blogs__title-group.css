@@ -1,0 +1,7 @@
+.blogs__title-group {
+  width: 507px;
+  padding: 0;
+  margin: 0 auto 72px;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,15 @@
+.logo__text {
+  color: #231f20;
+  text-align: center;
+  font-family: 'Homemade Apple';
+  font-style: normal;
+  font-size: 18px;
+  line-height: 39px;
+  font-weight: normal;
+  text-decoration: none;
+  transition: opacity 0.5s;
+}
+
+.logo__text:hover {
+  opacity: 0.5;
+}

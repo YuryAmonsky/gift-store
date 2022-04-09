@@ -1,0 +1,12 @@
+.feature__subtitle {
+  width: 441px;
+  height: 169px;
+  margin-top: -20px;
+  padding: 0;
+  font-family: 'Gilroy';
+  font-size: 20px;
+  line-height: 140.62%;
+  /* or 28px */
+  text-align: justify;
+  color: #000000;
+}

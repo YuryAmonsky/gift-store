@@ -1,0 +1,6 @@
+.hero__side-image-right {
+  width: 719px;
+  height: 700px;
+  object-fit: contain;
+  z-index: 1;
+}

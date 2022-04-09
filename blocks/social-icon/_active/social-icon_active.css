@@ -1,0 +1,5 @@
+.social-icon_active:hover {
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 1px solid #e7941e;
+}

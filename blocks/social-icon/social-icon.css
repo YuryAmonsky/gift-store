@@ -1,0 +1,7 @@
+@import url(_banned/social-icon_banned.css);
+@import url(_active/social-icon_active.css);
+
+.social-icon {
+  width: 38.4px;
+  height: 38.4px;  
+}

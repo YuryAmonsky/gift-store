@@ -1,0 +1,10 @@
+.footer-navigation__links-group {
+  width: 159px;
+  min-height: 20px;
+  padding: 0;
+  margin: 109px 0 53px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}

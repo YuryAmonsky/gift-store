@@ -1,0 +1,22 @@
+.navigation-center__button {
+  width: 150px;
+  height: 43px;
+  position: relative;
+  top: 1px;  
+  border: 1px solid #f7941e;
+  box-sizing: border-box;
+  border-radius: 5px;
+  color: #f7941e;
+  font-family: 'Gilroy';
+  font-size: 18px;  
+  line-height: 43.5px;  /* identical to button height */
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #fafafa;
+  transition: .2s;
+}
+
+.navigation-center__button:hover {
+  outline: 2px solid #f7941e;
+}

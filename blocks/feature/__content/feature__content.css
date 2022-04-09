@@ -1,0 +1,11 @@
+.feature__content {
+  width: 441px;
+  height: 332px;
+  position: absolute;
+  top: 164px;
+  right: 166px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}

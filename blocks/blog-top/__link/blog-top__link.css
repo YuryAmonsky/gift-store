@@ -1,0 +1,17 @@
+.blog-top__link {
+  width: 90px;
+  padding: 0;
+  margin: 0;
+  font-family: 'Gilroy';
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 140.62%;
+  /* identical to box height, or 25px */
+  text-decoration: none;
+  color: #fff;
+  transition: .5s
+}
+
+.blog-top__link:hover {
+  text-shadow: 5px -5px #ffffff88;
+}

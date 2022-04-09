@@ -1,0 +1,11 @@
+.posts-tall__title {
+  width: 422px;
+  padding: 0;
+  margin: 90px auto 0;
+  font-family: 'Gilroy';
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 38px;
+  text-align: center;
+  color: #000000;
+}

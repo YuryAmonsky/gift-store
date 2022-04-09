@@ -1,0 +1,22 @@
+.cta__button-secondary {
+  width: 200px;
+  height: 48px;
+  padding: 0;
+  margin: 2px 16px 0 0;
+  outline: 1px solid #000;
+  border-radius: 5px;
+  background-color: #f7941e;
+  color: #000;
+  font-family: 'Gilroy';
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 50px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: .2s;
+}
+  
+.cta__button-secondary:hover {
+  outline: 2px solid #000;
+}

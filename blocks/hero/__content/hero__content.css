@@ -1,0 +1,11 @@
+.hero__content {
+  width: 433px;
+  height: 411px;
+  padding: 0;
+  margin: 154px 0 0 162px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: flex-start;
+  z-index: 2;
+}

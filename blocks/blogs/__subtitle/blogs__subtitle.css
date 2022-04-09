@@ -1,0 +1,9 @@
+.blogs__subtitle {
+  padding: 0;
+  margin: 23px auto 0;
+  font-family: 'Gilroy';
+  font-size: 18px;
+  line-height: 135.94%;
+  /* identical to box height, or 24px */
+  text-align: center;
+}

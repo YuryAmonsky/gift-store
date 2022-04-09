@@ -1,0 +1,22 @@
+@import url(../fonts/fonts.css);
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/navigation-bar/navigation-bar.css);
+@import url(../blocks/logo/logo.css);
+@import url(../blocks/navigation-center/navigation-center.css);
+@import url(../blocks/hero/hero.css);
+@import url(../blocks/feature/feature.css);
+@import url(../blocks/posts-tall/posts-tall.css);
+@import url(../blocks/card-blog/card-blog.css);
+@import url(../blocks/cta/cta.css);
+@import url(../blocks/blogs/blogs.css);
+@import url(../blocks/blog-top/blog-top.css);
+@import url(../blocks/blogs-card/blogs-card.css);
+@import url(../blocks/footer-center/footer-center.css);
+@import url(../blocks/footer-navigation/footer-navigation.css);
+@import url(../blocks/icons-group/icons-group.css);
+@import url(../blocks/social-icon/social-icon.css);
+
+body{
+  background-color: #000;
+}

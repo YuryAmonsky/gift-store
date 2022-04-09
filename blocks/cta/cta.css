@@ -1,0 +1,16 @@
+@import url(__title-group/cta__title-group.css);
+@import url(__title/cta__title.css);
+@import url(__subtitle/cta__subtitle.css);
+@import url(__button-primary/cta__button-primary.css);
+@import url(__button-secondary/cta__button-secondary.css);
+
+.cta {
+  width: 1440px;
+  min-height: 240px;
+  padding: 0 235px;
+  margin: 0;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  background-color: #e7941e;
+}

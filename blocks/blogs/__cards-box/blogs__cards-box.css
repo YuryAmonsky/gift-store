@@ -1,0 +1,9 @@
+.blogs__cards-box {
+  width: 1170px;
+  padding: 0;
+  margin: 40px auto 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  column-gap: 30px;
+}

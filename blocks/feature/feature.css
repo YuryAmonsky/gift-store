@@ -1,0 +1,11 @@
+@import url(__media/feature__media.css);
+@import url(__content/feature__content.css);
+@import url(__title/feature__title.css);
+@import url(__subtitle/feature__subtitle.css);
+@import url(__button/feature__button.css);
+
+.feature {
+  height: 600px;
+  position: relative;
+  background: #f1f1f2;
+}

@@ -1,0 +1,19 @@
+@import url(__title/blogs-card__title.css);
+@import url(__summary/blogs-card__summary.css);
+@import url(__link/blogs-card__link.css);
+
+
+.blogs-card {
+  width: 570px;
+  padding: 48px 48px 50px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  row-gap: 16px;
+  transition: .5s;
+}
+
+.blogs-card:hover {
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}

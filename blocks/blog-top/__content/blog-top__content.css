@@ -1,0 +1,8 @@
+.blog-top__content {
+  width: 770px;
+  padding: 63px 0 49px 78px;
+  display: flex;
+  flex-direction: column;
+  background-color: #231f20;
+  color: #fff;
+}
